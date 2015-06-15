@@ -1,2 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 You not how the ability to save versions and track changes.
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+Because changes there don't affect the files in the wd.  Allows user
+to make experimental changes.
+
